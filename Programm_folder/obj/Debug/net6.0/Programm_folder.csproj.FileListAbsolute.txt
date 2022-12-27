@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\Final_project\Programm_folder\bin\Debug\net6.0\Programm_folder.exe
+C:\Users\пк\Desktop\Final_project\Programm_folder\bin\Debug\net6.0\Programm_folder.deps.json
+C:\Users\пк\Desktop\Final_project\Programm_folder\bin\Debug\net6.0\Programm_folder.runtimeconfig.json
+C:\Users\пк\Desktop\Final_project\Programm_folder\bin\Debug\net6.0\Programm_folder.dll
+C:\Users\пк\Desktop\Final_project\Programm_folder\bin\Debug\net6.0\Programm_folder.pdb
+C:\Users\пк\Desktop\Final_project\Programm_folder\obj\Debug\net6.0\Programm_folder.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\Final_project\Programm_folder\obj\Debug\net6.0\Programm_folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\Final_project\Programm_folder\obj\Debug\net6.0\Programm_folder.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Final_project\Programm_folder\obj\Debug\net6.0\Programm_folder.AssemblyInfo.cs
+C:\Users\пк\Desktop\Final_project\Programm_folder\obj\Debug\net6.0\Programm_folder.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Final_project\Programm_folder\obj\Debug\net6.0\Programm_folder.dll
+C:\Users\пк\Desktop\Final_project\Programm_folder\obj\Debug\net6.0\refint\Programm_folder.dll
+C:\Users\пк\Desktop\Final_project\Programm_folder\obj\Debug\net6.0\Programm_folder.pdb
+C:\Users\пк\Desktop\Final_project\Programm_folder\obj\Debug\net6.0\Programm_folder.genruntimeconfig.cache
+C:\Users\пк\Desktop\Final_project\Programm_folder\obj\Debug\net6.0\ref\Programm_folder.dll
